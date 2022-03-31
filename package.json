@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "lgtv2": "^1.7.0"
+    "lgtv2": "https://github.com/ckirby350/lgtvcontrol"
   },
   "node-red": {
     "nodes": {
